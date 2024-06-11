@@ -1,4 +1,4 @@
-package com.example.tugasbe.ui.theme
+package com.breens.todoapp.theme // ktlint-disable package-name
 
 import androidx.compose.ui.graphics.Color
 
