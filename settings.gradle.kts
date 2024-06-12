@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TodoChamp"
+rootProject.name = "OnlineToDoApp"
 include(":app")
- 
